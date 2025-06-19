@@ -28,3 +28,7 @@
 Full Stack Developer, студент ОГУ, группа 23ПМИ(б)ППКС
 
 Почта для связи: ditrukhin2@mail.ru
+
+# Скриншоты работы программы:
+![image](https://github.com/user-attachments/assets/c35f974f-5d93-45b1-b5ad-e73595acd79e)
+![image](https://github.com/user-attachments/assets/25705c7a-8fdd-4551-b714-1ebcbd1fa886)
